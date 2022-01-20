@@ -1,5 +1,7 @@
 ## Hi there I am Bibina Ghale👋
 
+**I’m currently  learning **
+
 <!--
 **BinaGhale/BinaGhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/71888813/150391265-104e64be-0550-4120-ba44-3bbc898327b0.png)
+
