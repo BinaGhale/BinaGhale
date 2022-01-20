@@ -1,7 +1,10 @@
 ## Hi there I am Bibina Ghale👋
 
-#### I’m currently  learning ####
-
+###🌱 learning and Growing ###...
+### 📫 Connect with me:
+ https://www.linkedin.com/in/bibina-ghale-20831920a/ ...
+https://www.instagram.com/
+###
 <!--
 **BinaGhale/BinaGhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
