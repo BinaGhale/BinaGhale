@@ -1,4 +1,4 @@
-## Hi there I am Bibina👋
+## Hi there I am Bibina Ghale👋
 
 <!--
 **BinaGhale/BinaGhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
