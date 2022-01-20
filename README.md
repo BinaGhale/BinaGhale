@@ -1,6 +1,6 @@
 ## Hi there I am Bibina Ghale👋
 
-### 🌱 learning and Growing ###...
+### 🌱 Learning and Growing ###...
 
 <!--
 **BinaGhale/BinaGhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
